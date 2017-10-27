@@ -1,3 +1,3 @@
 # blog
 
-This repo contains additional material for my weblog [www.nico-maas.de](www.nico-maas.de)
+This repo contains additional material for my weblog [https://www.nico-maas.de](https://www.nico-maas.de)
